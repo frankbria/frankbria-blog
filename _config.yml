@@ -1,0 +1,105 @@
+# Site Settings
+title: Code & Context
+tagline: Engineering insights from the trenches
+description: >-
+  Technical deep-dives on AI-assisted development, systematic engineering practices,
+  and building production-ready systems. By Frank Bria.
+
+url: "https://frankbria.github.io"
+baseurl: "/frankbria-blog"
+
+# SEO and Social
+author:
+  name: Frank Bria
+  email:
+  links:
+    # - https://twitter.com/frankbria
+    # - https://linkedin.com/in/frankbria
+    # - https://github.com/frankbria
+
+social:
+  name: Frank Bria
+  links:
+    # - https://twitter.com/frankbria
+    # - https://linkedin.com/in/frankbria
+    - https://github.com/frankbria
+
+# Theme Settings
+theme: jekyll-theme-chirpy
+
+# Timezone
+timezone: America/New_York
+
+# Pagination
+paginate: 10
+paginate_path: "/posts/page:num/"
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+
+# Collections
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: false
+      toc: true
+      permalink: /posts/:title/
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .git
+  - .github
