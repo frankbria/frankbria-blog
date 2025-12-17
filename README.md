@@ -83,7 +83,7 @@ The Chirpy theme includes:
 
 ## Live Site
 
-Visit the blog at: https://frankbria.github.io/frankbria-blog/
+Visit the blog at: https://lab.frankbria.com/
 
 ## License
 

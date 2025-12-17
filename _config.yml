@@ -5,8 +5,8 @@ description: >-
   Technical deep-dives on AI-assisted development, systematic engineering practices,
   and building production-ready systems. By Frank Bria.
 
-url: "https://frankbria.github.io"
-baseurl: "/frankbria-blog"
+url: "https://lab.frankbria.com"
+baseurl: ""
 
 # SEO and Social
 author:
