@@ -27,6 +27,9 @@ social:
 # Theme Settings
 theme: jekyll-theme-chirpy
 
+# Avatar - profile picture in sidebar
+avatar: /assets/img/avatar.jpg
+
 # Timezone
 timezone: America/New_York
 
