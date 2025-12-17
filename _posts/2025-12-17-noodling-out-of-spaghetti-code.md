@@ -293,7 +293,7 @@ I have a custom Claude Code command called `/chain` that takes a complex prompt 
 
 This is especially useful for the gap analysis phase—I can have multiple specialized agents examine different aspects of the codebase simultaneously.
 
-[Link: How I built /chain →](#)
+[Link: How I built /chain →] COMING SOON
 
 ### `reviewing-code` Skill
 
@@ -301,13 +301,13 @@ Before any significant commit—especially PRs—I run my `reviewing-code` skill
 
 Think of it as a pre-flight check before sending code to external review.
 
-[Link: The reviewing-code skill →](#)
+[Link: The reviewing-code skill →] COMING SOON
 
 ### Optimized CLAUDE.md
 
 My `CLAUDE.md` file contains extensive instructions for parallelization, testing strategies, and when to invoke specific skill files. This ensures consistent quality across sessions without having to re-explain preferences every time.
 
-[Link: CLAUDE.md optimization guide →](#)
+[Link: CLAUDE.md optimization guide →] COMING SOON
 
 ---
 
