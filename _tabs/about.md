@@ -7,7 +7,7 @@ order: 4
 
 ## Frank Bria
 
-Principal Product Consultant specializing in data systems and governance, with 15+ years in fintech.
+Head of Fintech Product and Principal Product Consultant specializing in data systems and risk governance, advanced analytics, AI/ML with 20+ years in fintech.
 
 ### What I Do
 
@@ -28,16 +28,16 @@ This blog explores technical deep-dives on development practices, AI-assisted wo
 
 ### More About Me
 
-- Host of [The 6 to 7 Figures Show](#) podcast
-- Author of "Seven Billion Banks"
-- Composer of orchestral music
+- Host of [The 6 to 7 Figures Show](https://open.spotify.com/show/0xcYcgrzcnsff0mkNX0fGh) podcast
+- Author of ["Seven Billion Banks"](https://www.amazon.com/Seven-Billion-Banks-Personalized-Experience-ebook/dp/B00LAOMJRM), ["Scale: How to Grow Your Business By Working Less"](https://www.amazon.com/Scale-Grow-Your-Business-Working-ebook/dp/B00YW8OIGS) and ["Scalable Consulting"](https://www.amazon.com/Scalable-Consulting-High-Ticket-Transform-Enterprise-ebook/dp/B08JJ4P34J)
+- Composer of orchestral music ([SoundCloud](https://soundcloud.com/frankbriamusic), [Spotify](https://open.spotify.com/artist/4Pby9EnwtBKdINj5sXakp2), and [Apple Music](https://music.apple.com/us/artist/frank-h-bria/1843107091))
 - Home lab enthusiast
 
 ### Connect
 
 - GitHub: [frankbria](https://github.com/frankbria)
-- X: [@frankbria](#)
-- LinkedIn: [frankbria](#)
+- X: [@frankbria18044](https://x.com/FrankBria18044)
+- LinkedIn: [frankbria](https://linkedin.com/in/frankbria)
 
 ---
 
