@@ -88,3 +88,4 @@ Visit the blog at: https://frankbria.github.io/frankbria-blog/
 ## License
 
 Content is © Frank Bria. Theme is [MIT licensed](https://github.com/cotes2020/jekyll-theme-chirpy/).
+
