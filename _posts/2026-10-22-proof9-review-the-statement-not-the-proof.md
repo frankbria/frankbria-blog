@@ -14,7 +14,7 @@ You know the agent believes it's done. You may know the tests it chose to run pa
 
 For a human-paced team, code review covered that gap. Someone read the diff, held the system in their head, and said "this looks right." That doesn't scale when an agent can open twenty PRs before lunch. Reading every line of agent output is the new bottleneck, and skimming it is how regressions ship.
 
-PROOF9 is my answer to that problem. It's the verification layer in [CodeFRAME](https://github.com/frankbria/codeframe), and it now also runs as a Claude Code plugin.
+PROOF9™ is my answer to that problem. It's the verification layer in [CodeFRAME®](https://github.com/frankbria/codeframe), and it now also runs as a Claude Code plugin.
 
 ## What PROOF9 is
 
@@ -134,3 +134,7 @@ It needs the CLI (`uv tool install codeframe-ai`, version 0.9.7 or later). Then 
 The rest is on [GitHub](https://github.com/frankbria/codeframe).
 
 The agent says it fixed the bug. The gate says whether it did. Believe the gate.
+
+---
+
+<small>CodeFRAME® is a registered trademark and PROOF9™ is a trademark of Noatak Enterprises, LLC, dba Bria Strategy Group.</small>
